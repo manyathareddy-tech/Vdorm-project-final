@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🏠 V-Dorm: Smart Hostel Management System (Prototype)
 
-# Run and deploy your AI Studio app
+ Overview
 
-This contains everything you need to run your app locally.
+V-Dorm is a prototype smart hostel monitoring and management system designed to improve efficiency, transparency, and communication between students and hostel administration.
 
-View your app in AI Studio: https://ai.studio/apps/5efda834-7b9b-45ba-8772-321673904914
+ Features
 
-## Run Locally
+-  Real-time maintenance tracking
+-  Automated notifications to wardens
+-  Staff accountability (timestamp + remarks)
+-  Mess crowd monitoring (concept)
+-  Student & Admin portals
 
-**Prerequisites:**  Node.js
+ Innovation
 
+Unlike traditional systems, V-Dorm focuses on:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Real-time updates
+- Smart monitoring
+- Transparency in maintenance
+
+ Tech Stack
+
+- Frontend: Next.js / React
+- Backend: (add if any)
+- APIs: Fast2SMS
+
+ Note
+
+This is a prototype built to demonstrate the concept and scalability of a smart hostel management system.
+
+ How to Run
+
+npm install
+npm run dev
