@@ -1,3 +1,5 @@
+<img width="1302" height="724" alt="image" src="https://github.com/user-attachments/assets/f8632b69-9b66-46c3-8c31-c9efee09f5b4" />
+
 🏠 V-Dorm: Smart Hostel Management System (Prototype)
 
  Overview
