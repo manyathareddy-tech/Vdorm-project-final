@@ -1,0 +1,5 @@
+{
+  "name": "HostelNexus Pitch",
+  "description": "Hackathon-winning solution for smart hostel management using AI and IoT.",
+  "requestFramePermissions": ["camera"]
+}
